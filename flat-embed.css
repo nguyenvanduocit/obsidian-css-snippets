@@ -16,3 +16,7 @@
     font-weight: var(--h2-weight);
     font-style: var(--h2-style);
 }
+
+.file-embed-link svg, .markdown-embed-link svg{
+    opacity: 1;
+}
